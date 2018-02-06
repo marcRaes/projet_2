@@ -1,0 +1,1588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unicons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-13 11:52+0000\n"
+"PO-Revision-Date: 2017-09-19 10:20+0000\n"
+"Last-Translator: odt_strasbourg <p2nepasrepondre@m-raes.fr>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: category.php:13
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un Commentaire sur"
+
+#. 1: number of comments, 2: post title
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: content-single.php:56
+msgid "Off"
+msgstr ""
+
+#: content-single.php:67 page-full_width.php:54 page-notitle_full_width.php:46
+#: page.php:52 template-team.php:68
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:71 page-full_width.php:58 page-notitle_full_width.php:50
+#: page.php:56 template-team.php:72
+msgid "Page"
+msgstr ""
+
+#: functions.php:91 functions.php:143
+msgid "Primary Navigation(Header)"
+msgstr ""
+
+#. If there are characters in uniconsr language that are not
+#. supported by Lato, translate this to 'off'. Do not translate
+#. into uniconsr own language.
+#: functions.php:222
+msgctxt "Open-Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in uniconsr language that are not
+#. supported by Noto Serif, translate this to 'off'. Do not translate
+#. into uniconsr own language.
+#: functions.php:228
+msgctxt "Open-Sans Sans Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:317
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:318
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:319
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:320
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:321
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:322
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:323
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:324
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:325
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:326
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:327
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:328
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:329
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:330
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:331
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:332
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:333
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:350 functions.php:352
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:360
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:362
+msgid "Widget Area for the Footer"
+msgstr ""
+
+#: functions.php:369
+msgid "Client Section "
+msgstr ""
+
+#: functions.php:377
+msgid "Service Section "
+msgstr ""
+
+#: functions.php:386
+msgid "Team Section "
+msgstr ""
+
+#: functions.php:394
+msgid "Contact Section "
+msgstr ""
+
+#: functions.php:402
+msgid "Team Page widget area "
+msgstr ""
+
+#. Name of the template
+msgid "Page with No sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "No sidebar and no page title"
+msgstr ""
+
+#: template-team.php:27 template-team.php:29
+#, php-format
+msgid ""
+"You need to install the %s plugin to be able to add Team members, counter, "
+"service block and Clients widgets."
+msgstr ""
+
+#: header/part-header2.php:30
+msgid "Menu"
+msgstr ""
+
+#: header/part-header2.php:51
+msgid "Add a Primary Menu"
+msgstr ""
+
+#: inc/customizer.php:19 inc/customizer/fields.php:374
+msgid "Client section"
+msgstr ""
+
+#: inc/customizer.php:25 inc/customizer.php:55 inc/customizer/fields.php:375
+msgid "Contact section"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Service section"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Counter section"
+msgstr ""
+
+#: inc/customizer.php:43 inc/customizer/fields.php:373
+msgid "Team section"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Team Page setup"
+msgstr ""
+
+#: layout/part-content1.php:43 layout/part-layout2.php:60
+msgid "no"
+msgstr ""
+
+#: layout/part-content2.php:43 layout/part-layout1.php:64
+#: inc/customizer/fields.php:456 inc/customizer/fields.php:2096
+msgid "off"
+msgstr ""
+
+#: parts/part-slider.php:19 inc/customizer/fields.php:562
+#: inc/customizer/fields.php:716
+msgid "Try Now !"
+msgstr ""
+
+#: parts/part-textanimation.php:5 inc/customizer/fields.php:606
+msgid "Hero Title"
+msgstr ""
+
+#: parts/part-textanimation.php:6
+msgid "Buy Theme"
+msgstr ""
+
+#: parts/social-loop.php:22
+msgid "facebook"
+msgstr ""
+
+#: parts/social-loop.php:25
+msgid "twitter"
+msgstr ""
+
+#: parts/social-loop.php:28 inc/customizer/fields.php:1652
+msgid "Google Plus"
+msgstr ""
+
+#: parts/social-loop.php:31 inc/customizer/fields.php:1660
+msgid "Pinterest"
+msgstr ""
+
+#: parts/social-loop.php:35
+msgid "uniconstube"
+msgstr ""
+
+#: parts/social-loop.php:38
+msgid "linkedin"
+msgstr ""
+
+#: parts/social-loop.php:41 inc/customizer/fields.php:1702
+msgid "Vimeo"
+msgstr ""
+
+#: parts/social-loop.php:43
+msgid "flickr"
+msgstr ""
+
+#: parts/social-loop.php:46
+msgid "rss"
+msgstr ""
+
+#: parts/social-loop.php:49
+msgid "instagram"
+msgstr ""
+
+#: inc/customizer/config.php:17
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/config.php:18
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/config.php:19
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/config.php:20
+msgid "Repeat All"
+msgstr ""
+
+#: inc/customizer/config.php:21
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/customizer/config.php:22
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer/config.php:23
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/config.php:24
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/config.php:25 inc/customizer/fields.php:510
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/config.php:26 inc/customizer/fields.php:512
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/config.php:27
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/config.php:28
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/config.php:29
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/config.php:30
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/config.php:31
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/config.php:32
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/config.php:33
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:34
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/config.php:35
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/config.php:36
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:37
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/config.php:38
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer/config.php:39
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:40
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/config.php:41
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/customizer/config.php:42
+msgid "ON"
+msgstr ""
+
+#: inc/customizer/config.php:43
+msgid "OFF"
+msgstr ""
+
+#: inc/customizer/config.php:44
+msgid "All"
+msgstr ""
+
+#: inc/customizer/config.php:45
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer/config.php:46
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer/config.php:47
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/config.php:48
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer/config.php:49
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/config.php:50
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer/config.php:51
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer/config.php:52
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/config.php:53
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer/config.php:54
+msgid "Hebrew"
+msgstr ""
+
+#: inc/customizer/config.php:55
+msgid "Arabic"
+msgstr ""
+
+#: inc/customizer/config.php:56
+msgid "Bengali"
+msgstr ""
+
+#: inc/customizer/config.php:57
+msgid "Gujarati"
+msgstr ""
+
+#: inc/customizer/config.php:58
+msgid "Tamil"
+msgstr ""
+
+#: inc/customizer/config.php:59
+msgid "Telugu"
+msgstr ""
+
+#: inc/customizer/config.php:60
+msgid "Thai"
+msgstr ""
+
+#: inc/customizer/config.php:61
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer/config.php:62
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/customizer/config.php:63
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/customizer/config.php:64
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/config.php:65
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/config.php:66
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/config.php:67
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/config.php:68
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/config.php:69
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/config.php:70
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/config.php:71
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:72
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/config.php:73
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/config.php:74 inc/customizer/fields.php:847
+#: inc/customizer/fields.php:944
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/config.php:75
+msgid "Add Image"
+msgstr ""
+
+#: inc/customizer/config.php:76
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/config.php:77
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/config.php:78
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/customizer/config.php:79
+msgid "Select a font-family"
+msgstr ""
+
+#: inc/customizer/config.php:80
+msgid "Variant"
+msgstr ""
+
+#: inc/customizer/config.php:81
+msgid "Subset"
+msgstr ""
+
+#: inc/customizer/config.php:82
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/config.php:83
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/config.php:84
+msgid "Spacing"
+msgstr ""
+
+#: inc/customizer/config.php:85
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/customizer/config.php:86
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:87
+msgid "Light 200"
+msgstr ""
+
+#: inc/customizer/config.php:88
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:89
+msgid "Book 300"
+msgstr ""
+
+#: inc/customizer/config.php:90
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:91
+msgid "Normal 400"
+msgstr ""
+
+#: inc/customizer/config.php:92
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:93
+msgid "Medium 500"
+msgstr ""
+
+#: inc/customizer/config.php:94
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:95
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/customizer/config.php:96
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:97
+msgid "Bold 700"
+msgstr ""
+
+#: inc/customizer/config.php:98
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:99
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/customizer/config.php:100
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:101
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/customizer/config.php:102
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/customizer/config.php:103
+msgid "Invalid Value"
+msgstr ""
+
+#: inc/customizer/fields.php:11
+msgid "Make website box layout"
+msgstr ""
+
+#: inc/customizer/fields.php:20
+msgid "Dimension Control"
+msgstr ""
+
+#: inc/customizer/fields.php:44
+msgid "Header padding"
+msgstr ""
+
+#: inc/customizer/fields.php:79
+msgid "Disable sticky menu"
+msgstr ""
+
+#: inc/customizer/fields.php:89
+msgid "Transparent Header background color"
+msgstr ""
+
+#: inc/customizer/fields.php:113
+msgid "menu  or sticky menu background color"
+msgstr ""
+
+#: inc/customizer/fields.php:142
+msgid "sticky menu background text color"
+msgstr ""
+
+#: inc/customizer/fields.php:167
+msgid "Site menu Typography"
+msgstr ""
+
+#: inc/customizer/fields.php:196
+msgid "Site title Typography"
+msgstr ""
+
+#: inc/customizer/fields.php:222
+msgid "Site description Typography"
+msgstr ""
+
+#: inc/customizer/fields.php:248
+msgid "Sub heading background color"
+msgstr ""
+
+#: inc/customizer/fields.php:268
+msgid "Section Overlay color "
+msgstr ""
+
+#: inc/customizer/fields.php:288
+msgid "Sub head padding top"
+msgstr ""
+
+#: inc/customizer/fields.php:311
+msgid "Sub head padding bottom"
+msgstr ""
+
+#: inc/customizer/fields.php:333
+msgid " Text Typography"
+msgstr ""
+
+#: inc/customizer/fields.php:359
+msgid "Reorder font page section"
+msgstr ""
+
+#: inc/customizer/fields.php:360
+msgid ""
+"You can enable/disable the font page section that interest you below and "
+"reorder them to your liking."
+msgstr ""
+
+#: inc/customizer/fields.php:371
+msgid "Service-block"
+msgstr ""
+
+#: inc/customizer/fields.php:372
+msgid "Latest post"
+msgstr ""
+
+#: inc/customizer/fields.php:384
+msgid "Flavour color"
+msgstr ""
+
+#: inc/customizer/fields.php:417
+msgid "Hover color"
+msgstr ""
+
+#: inc/customizer/fields.php:451
+msgid "Enable/disabel Static image"
+msgstr ""
+
+#: inc/customizer/fields.php:457 inc/customizer/fields.php:2097
+msgid "on"
+msgstr ""
+
+#: inc/customizer/fields.php:464
+msgid "Select slider"
+msgstr ""
+
+#: inc/customizer/fields.php:470 inc/customizer/fields.php:537
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/fields.php:471
+msgid "Text Animation "
+msgstr ""
+
+#: inc/customizer/fields.php:477
+msgid "Slider/Static image position"
+msgstr ""
+
+#: inc/customizer/fields.php:484
+msgid "center center"
+msgstr ""
+
+#: inc/customizer/fields.php:485
+msgid "left bottom"
+msgstr ""
+
+#: inc/customizer/fields.php:486
+msgid "right top"
+msgstr ""
+
+#: inc/customizer/fields.php:487
+msgid "center top"
+msgstr ""
+
+#: inc/customizer/fields.php:488
+msgid "center bottom"
+msgstr ""
+
+#: inc/customizer/fields.php:503
+msgid "Slider/Static image Size"
+msgstr ""
+
+#: inc/customizer/fields.php:511
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/fields.php:513
+msgid "initial"
+msgstr ""
+
+#: inc/customizer/fields.php:528
+msgid "Add slider(minimum 2 slider)"
+msgstr ""
+
+#: inc/customizer/fields.php:529
+msgid "Add at least two slider"
+msgstr ""
+
+#: inc/customizer/fields.php:545 inc/customizer/fields.php:546
+msgid "Select page for slider content"
+msgstr ""
+
+#: inc/customizer/fields.php:551
+msgid "uplod image"
+msgstr ""
+
+#: inc/customizer/fields.php:555
+msgid "button 1st "
+msgstr ""
+
+#: inc/customizer/fields.php:561
+msgid "button 2nd"
+msgstr ""
+
+#: inc/customizer/fields.php:567
+msgid "Link URL 1"
+msgstr ""
+
+#: inc/customizer/fields.php:573
+msgid "Link URL 2"
+msgstr ""
+
+#: inc/customizer/fields.php:590
+msgid "Upload static image  "
+msgstr ""
+
+#: inc/customizer/fields.php:608
+msgid "This is a Hero Title"
+msgstr ""
+
+#: inc/customizer/fields.php:624
+msgid "Add text for textanimation"
+msgstr ""
+
+#: inc/customizer/fields.php:632 inc/customizer/fields.php:645
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/fields.php:638
+msgid "Welcome to Unicons"
+msgstr ""
+
+#: inc/customizer/fields.php:664
+msgid "static slider link 1"
+msgstr ""
+
+#: inc/customizer/fields.php:679
+msgid "static slider link 2"
+msgstr ""
+
+#: inc/customizer/fields.php:697
+msgid " button 1st"
+msgstr ""
+
+#: inc/customizer/fields.php:714
+msgid " button 2nd"
+msgstr ""
+
+#: inc/customizer/fields.php:730
+msgid "1st Button Color "
+msgstr ""
+
+#: inc/customizer/fields.php:735 inc/customizer/fields.php:791
+#: inc/customizer/fields.php:1777
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/fields.php:736 inc/customizer/fields.php:792
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/fields.php:737 inc/customizer/fields.php:1106
+#: inc/customizer/fields.php:2238
+msgid "background"
+msgstr ""
+
+#: inc/customizer/fields.php:765
+msgid "1st Button Font size"
+msgstr ""
+
+#: inc/customizer/fields.php:786
+msgid "2nd Button Color "
+msgstr ""
+
+#: inc/customizer/fields.php:793
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/fields.php:821
+msgid "2nd Button Font size"
+msgstr ""
+
+#: inc/customizer/fields.php:852 inc/customizer/fields.php:949
+#: inc/customizer/fields.php:1022 inc/customizer/fields.php:1075
+#: inc/customizer/fields.php:1244 inc/customizer/fields.php:1345
+#: inc/customizer/fields.php:1507 inc/customizer/fields.php:2207
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/fields.php:876
+msgid "Slider/Static title typography"
+msgstr ""
+
+#: inc/customizer/fields.php:901
+msgid "Slider/Static Content typography"
+msgstr ""
+
+#: inc/customizer/fields.php:927
+msgid "Disable Slider Content"
+msgstr ""
+
+#: inc/customizer/fields.php:973
+msgid "service block title text size"
+msgstr ""
+
+#: inc/customizer/fields.php:995
+msgid "service block sub title text size"
+msgstr ""
+
+#: inc/customizer/fields.php:1017 inc/customizer/fields.php:1070
+#: inc/customizer/fields.php:1502 inc/customizer/fields.php:2202
+msgid "section title and sub-title Color"
+msgstr ""
+
+#: inc/customizer/fields.php:1023 inc/customizer/fields.php:1076
+#: inc/customizer/fields.php:1508 inc/customizer/fields.php:2208
+msgid "Sub-title"
+msgstr ""
+
+#: inc/customizer/fields.php:1046 inc/customizer/fields.php:1180
+#: inc/customizer/fields.php:1442 inc/customizer/fields.php:1531
+#: inc/customizer/fields.php:2178 inc/customizer/fields.php:2313
+msgid "Section Background color"
+msgstr ""
+
+#: inc/customizer/fields.php:1099 inc/customizer/fields.php:2231
+msgid "Team name ,Designation Color and bar background color"
+msgstr ""
+
+#: inc/customizer/fields.php:1104 inc/customizer/fields.php:2236
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/fields.php:1105 inc/customizer/fields.php:2237
+msgid "Designation"
+msgstr ""
+
+#: inc/customizer/fields.php:1135 inc/customizer/fields.php:2267
+msgid "Name text size"
+msgstr ""
+
+#: inc/customizer/fields.php:1157 inc/customizer/fields.php:2289
+msgid "Designation text size"
+msgstr ""
+
+#: inc/customizer/fields.php:1206
+msgid "Latest Post title"
+msgstr ""
+
+#: inc/customizer/fields.php:1208
+msgid "Latest News"
+msgstr ""
+
+#: inc/customizer/fields.php:1224
+msgid "Latest post sub title"
+msgstr ""
+
+#: inc/customizer/fields.php:1239
+msgid "  title and Subtitle Color"
+msgstr ""
+
+#: inc/customizer/fields.php:1245
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/fields.php:1267
+msgid "Select Post layout"
+msgstr ""
+
+#: inc/customizer/fields.php:1273 inc/customizer/fields.php:2341
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer/fields.php:1274 inc/customizer/fields.php:2342
+msgid "Layout 2"
+msgstr ""
+
+#: inc/customizer/fields.php:1275 inc/customizer/fields.php:2343
+msgid "Layout 3"
+msgstr ""
+
+#: inc/customizer/fields.php:1282 inc/customizer/fields.php:2168
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/fields.php:1310
+msgid "Number of post show in front page "
+msgstr ""
+
+#: inc/customizer/fields.php:1335
+msgid "Show post orderby"
+msgstr ""
+
+#: inc/customizer/fields.php:1341
+msgid "None"
+msgstr ""
+
+#: inc/customizer/fields.php:1342
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/fields.php:1343
+msgid "ID"
+msgstr ""
+
+#: inc/customizer/fields.php:1344
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/fields.php:1346
+msgid "Random"
+msgstr ""
+
+#: inc/customizer/fields.php:1369
+msgid "Hide latest post cetagory"
+msgstr ""
+
+#: inc/customizer/fields.php:1393
+msgid "Hide latest post date"
+msgstr ""
+
+#: inc/customizer/fields.php:1417
+msgid "Hide latest post comments"
+msgstr ""
+
+#: inc/customizer/fields.php:1463 inc/customizer/fields.php:1552
+#: inc/customizer/fields.php:1893
+msgid "Add section background image"
+msgstr ""
+
+#: inc/customizer/fields.php:1473 inc/customizer/fields.php:1569
+#: inc/customizer/fields.php:1903
+msgid "Disable parallax effect"
+msgstr ""
+
+#: inc/customizer/fields.php:1486
+msgid " Sub title"
+msgstr ""
+
+#: inc/customizer/fields.php:1586 inc/customizer/fields.php:1913
+msgid "Section Overlay color"
+msgstr ""
+
+#: inc/customizer/fields.php:1609
+msgid "Disable search Icon in header"
+msgstr ""
+
+#: inc/customizer/fields.php:1618
+msgid "Disable social Icon in header"
+msgstr ""
+
+#: inc/customizer/fields.php:1627
+msgid "Enable social Icon in footer"
+msgstr ""
+
+#: inc/customizer/fields.php:1635
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/fields.php:1644
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/fields.php:1668
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer/fields.php:1677
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/fields.php:1685
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/fields.php:1694
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/fields.php:1710
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer/fields.php:1724
+msgid "Section Title typography"
+msgstr ""
+
+#: inc/customizer/fields.php:1747
+msgid "Section Sub Title typography"
+msgstr ""
+
+#: inc/customizer/fields.php:1771
+msgid "Description and Icon color"
+msgstr ""
+
+#: inc/customizer/fields.php:1776
+msgid "Title color"
+msgstr ""
+
+#: inc/customizer/fields.php:1778
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/fields.php:1806
+msgid "Contact form text color"
+msgstr ""
+
+#: inc/customizer/fields.php:1811 inc/customizer/fields.php:1940
+#: inc/customizer/fields.php:2142
+msgid "Title "
+msgstr ""
+
+#: inc/customizer/fields.php:1812 inc/customizer/fields.php:2143
+msgid "Sub title "
+msgstr ""
+
+#: inc/customizer/fields.php:1814
+msgid "Button "
+msgstr ""
+
+#: inc/customizer/fields.php:1848
+msgid " section background setup color"
+msgstr ""
+
+#: inc/customizer/fields.php:1853
+msgid "Section "
+msgstr ""
+
+#: inc/customizer/fields.php:1854
+msgid "Form "
+msgstr ""
+
+#: inc/customizer/fields.php:1855
+msgid "Field"
+msgstr ""
+
+#: inc/customizer/fields.php:1856
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/fields.php:1935
+msgid "Footer widgets Title and Content color"
+msgstr ""
+
+#: inc/customizer/fields.php:1941
+msgid "Content "
+msgstr ""
+
+#: inc/customizer/fields.php:1967
+msgid "Footer widgets Background color"
+msgstr ""
+
+#: inc/customizer/fields.php:1988
+msgid "Add section background image for Footer widgets"
+msgstr ""
+
+#: inc/customizer/fields.php:1998
+msgid "Footer widgets Disable parallax effect"
+msgstr ""
+
+#: inc/customizer/fields.php:2008
+msgid "Section Overlay color for Footer widgets"
+msgstr ""
+
+#: inc/customizer/fields.php:2029
+msgid "Footer copyright text "
+msgstr ""
+
+#: inc/customizer/fields.php:2045
+msgid "Copyright typography "
+msgstr ""
+
+#: inc/customizer/fields.php:2069
+msgid "Footer copyright Background color"
+msgstr ""
+
+#: inc/customizer/fields.php:2091
+msgid "Enable/disabel Page title"
+msgstr ""
+
+#: inc/customizer/fields.php:2103
+msgid "section title"
+msgstr ""
+
+#: inc/customizer/fields.php:2105
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/fields.php:2121
+msgid "section sub title"
+msgstr ""
+
+#: inc/customizer/fields.php:2137
+msgid "Title and subtitle color"
+msgstr ""
+
+#: inc/customizer/fields.php:2335
+msgid "Blog page and other page layout style"
+msgstr ""
+
+#: inc/customizer/fields.php:2351
+msgid "Sidebar disable in Blog page"
+msgstr ""
+
+#: inc/customizer/panels.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/panels.php:14
+msgid "This panel will provide all the options of the Theme."
+msgstr ""
+
+#: inc/customizer/sections.php:10
+msgid "General setting"
+msgstr ""
+
+#: inc/customizer/sections.php:19
+msgid "Header and Title settings"
+msgstr ""
+
+#: inc/customizer/sections.php:26
+msgid "Page Sub Header settings"
+msgstr ""
+
+#: inc/customizer/sections.php:34
+msgid "Color and Section management"
+msgstr ""
+
+#: inc/customizer/sections.php:44
+msgid "About Unicons"
+msgstr ""
+
+#: inc/customizer/sections.php:51
+msgid "Slider section"
+msgstr ""
+
+#: inc/customizer/sections.php:60
+msgid "Latest Post section  "
+msgstr ""
+
+#: inc/customizer/sections.php:72
+msgid "Typography  "
+msgstr ""
+
+#: inc/customizer/sections.php:81
+msgid "social"
+msgstr ""
+
+#: inc/customizer/sections.php:88
+msgid "Blog and Post Setup"
+msgstr ""
+
+#: inc/customizer/sections.php:97
+msgid "Footer section"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:58
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:78
+msgid "Getting started"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:79
+msgid "Actions recommended"
+msgstr ""
+
+#: inc/welcome/welcome-screen.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:12
+#, php-format
+msgid "Keep up with %s's recommended actions"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:17
+msgid "Switch \"Front page displays\" to \"A static page\" "
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:18
+msgid ""
+"If you want to create unique homepage, create the new page first, set the "
+"template \"Homepage\" and save the page. Then please go to Settings -> "
+"Reading and switch \"Front page displays\" to \"A static page\" and select "
+"the page you created before."
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:19
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/welcome/sections/actions-required.php:31
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:9
+msgid "How can I contribute?"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:15
+msgid "Found a bug? Want to contribute with a fix?"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:17
+msgid "Contact us!"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:20
+#, php-format
+msgid "%s contact page"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:28
+#, php-format
+msgid "Are you a polyglot? Want to translate %s into your own language?"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:30
+msgid "Get involved at WordPress.org."
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:33
+#, php-format
+msgid "Translate %s"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:40
+#, php-format
+msgid "Are you enjoying %s?"
+msgstr ""
+
+#: inc/welcome/sections/contribute.php:42
+#, php-format
+msgid "Rate our theme on %s. We'd really appreciate it!"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:13
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:14
+msgid ""
+"We want to make sure you have the best experience using unicons and that is "
+"why we gathered here all the necessary informations for you. We hope you "
+"will enjoy using unicons, as much as we enjoy creating great products."
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:24
+msgid "FAQ"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:29
+msgid "Set a Static Home Page (Front Page)"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:30
+msgid ""
+"By default the homepage will look like a blog (this is how WordPress is "
+"intended to work). If you want a custom homepage like Unicons demo . then go "
+"to customize >Static Front Page and you can define your homepage here.\n"
+"\tOn this video you will learn how you setup your website’s front page you "
+"like one for Unicons theme demo which you can see here."
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:35
+msgid "Step 1 : Go to customize"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:38
+msgid "Step 2 : Static Front Page => A static page"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:41
+msgid "Step 3 : Post page => click add new page => blog"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:44
+msgid "Step 4 : Front page => click add new page => Home"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:47
+msgid "Step 5 : Save and published"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:49
+msgid "That’s All"
+msgstr ""
+
+#: inc/welcome/sections/getting-started.php:50
+msgid "View how to do this"
+msgstr ""
+
+#: inc/welcome/sections/support.php:9
+msgid "Need more details?"
+msgstr ""
+
+#: inc/welcome/sections/support.php:11
+#, php-format
+msgid ""
+"Please check our full documentation for detailed information on how to use "
+"%s."
+msgstr ""
+
+#: inc/welcome/sections/support.php:14
+#, php-format
+msgid "%s documentation"
+msgstr ""
+
+#. Name of the theme
+msgid "unicons"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"unicons is an awesome Multipurpose WordPress theme that created on design "
+"flat, modern and elegant.It is filled with incredible demo websites and "
+"template pages you can deploy with a single click to serve just about every "
+"purpose you can think of. Blogs and shops,sport/medical,restaurants, wedding "
+"planners, professional portfolios and corporate websites, Unicons has the "
+"resources to tackle them all."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themezwp.com/unicons-lite/"
+msgstr ""
+
+#. Author of the theme
+msgid "Themez WP"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themezwp.com/"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page ne peut pas être trouvée."
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Il semble que rien n'ait été trouvé à cet emplacement. Essayez peut-être une "
+"recherche ?"
+
+#: author.php:31
+msgid "Posts by "
+msgstr "Poster par"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish uniconsr first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier le premier poste? <a href=\"%1$s\">Commence ici</a>"
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched uniconsr search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien n'a correspondu aux termes de recherche. Essayez S'il vous "
+"plaît de nouveau avec quelques mots-clés différents."
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what unicons&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne trouvons pas votre recherche. Peut-être une nouvelle "
+"recherche peut aider."
+
+#. %s: Name of current post
+#: content-single.php:18 page-full_width.php:39 page-notitle_full_width.php:31
+#: page.php:37 template-team.php:53
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "modifier<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: content-single.php:46 layout/part-content1.php:26
+#: layout/part-content2.php:25 layout/part-content3.php:18
+#: layout/part-layout1.php:46 layout/part-layout2.php:43
+#: layout/part-layout3.php:48
+#, php-format
+msgid "View all posts in %s"
+msgstr "Voir tous les postes %s"
+
+#: content-single.php:56 layout/part-content1.php:43
+#: layout/part-content2.php:43 layout/part-layout1.php:64
+#: layout/part-layout2.php:60
+msgid "0 Comment"
+msgstr "0 commentaire"
+
+#: content-single.php:56 layout/part-content1.php:43
+#: layout/part-content2.php:43 layout/part-layout1.php:64
+#: layout/part-layout2.php:60
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: content-single.php:56 layout/part-content1.php:43
+#: layout/part-content2.php:43 layout/part-layout1.php:64
+#: layout/part-layout2.php:60
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: footer.php:36
+#, php-format
+msgid "Theme by %s"
+msgstr "thème par %s"
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr "résultats de recherche pour : %s"
+
+#. Name of the template
+msgid "Our Team"
+msgstr "notre équipe"
+
+#: layout/part-content1.php:58 layout/part-content2.php:41
+#: layout/part-content3.php:32 layout/part-layout1.php:62
+#: layout/part-layout2.php:75
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: parts/part-layout.php:3
+msgid "Latest News "
+msgstr "dernière actualité"
+
+#: parts/part-slider.php:18 parts/part-textanimation.php:4
+#: inc/customizer/fields.php:556 inc/customizer/fields.php:699
+msgid "Know More"
+msgstr "En savoir plus"
+
+#: inc/customizer/fields.php:853 inc/customizer/fields.php:950
+#: inc/customizer/fields.php:1813
+msgid "Content"
+msgstr "contenu"

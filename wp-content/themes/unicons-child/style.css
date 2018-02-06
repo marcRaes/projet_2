@@ -1,0 +1,385 @@
+﻿/*
+Theme Name: unicons-child
+Template: unicons
+Theme URI: http://themezwp.com/unicons-lite/
+Author: Themez WP
+Author URI: http://themezwp.com/
+License: GNU General Public License, v3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: unicons
+Domain Path: /languages/
+
+Description:unicons is an awesome Multipurpose WordPress theme that created on design flat, modern and elegant.It is filled with incredible demo websites and template pages you can deploy with a single click to serve just about every purpose you can think of. Blogs and shops,sport/medical,restaurants, wedding planners, professional portfolios and corporate websites, Unicons has the resources to tackle them all.
+The theme is responsive, WPML, Retina ready, SEO friendly, and uses Advanced Kit for design.
+
+Version:1.2.0
+
+Tags:   grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments,blog,entertainment,food-and-drink
+
+unicons  WordPress Theme, Copyright 2017 themezwp.com
+unicons  is distributed under the terms of the GNU GPL
+*/
+
+/* Un pointer pour toutes les balises button et input[type="submit"] */
+button, input[type="submit"] {
+    cursor: pointer;
+}
+
+/* Ajout du texte "site non officiel" aprés le logo */
+#site-title {
+    width: 250px;
+}
+
+#site-title a img {
+    width: 100%;
+}
+
+#site-title a::after {
+    content: "Site non officiel";
+    display: block;
+    font-size: 13px;
+}
+
+/* Personnalisation du texte d'accueil */
+#texteAccueil {
+    background-color: #fff;
+    width: 70%;
+    margin: 20px auto;
+    font-size: 1.2em;
+}
+
+/* Menu principal */
+#navmenu li a, #navmenu ul li ul li a {
+    font-weight: 400;
+}
+
+#navmenu li a {
+    padding: 1rem 0.5rem;
+}
+
+nav .valign-middle > .large-4.columns {
+    width: 36%;
+}
+
+/* Page plus d'infos */
+#activitesVille a {
+	display: inline-block;
+	padding: 5px 30px;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.1);
+	transform: scale(0.95);
+}
+
+#activitesVille a:hover,
+#activitesVille a:focus {
+	box-shadow: 1px 1px 10px #000;
+	transform: scale(1);
+}
+
+#activitesVille ul {
+    margin: 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+#activitesVille figure {
+    display: inline-block;
+}
+
+#activitesVille img {
+	width: 100%;
+	margin: 0;
+	border-radius: 5px;
+}
+
+#activitesVille figcaption {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+/* Dérnieres actualités */
+.rpwwt-widget {
+    margin: 50px 0;
+}
+
+#team1 ul li {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.rpwwt-post-title {
+    font-size: 2em;
+}
+
+.rpwwt-post-excerpt {
+    margin: 20px;
+}
+
+.rpwwt-widget > h3.widgettitle {
+    width: 22.5%;
+    margin: 0 auto;
+    font-size: 2.5vw;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    border-bottom: 1px dotted #73baae;
+}
+
+/* Activités du mois */
+#cadreEvenement {
+	border: 1px solid #8e8e8e;
+	border-radius: 5px;
+}
+
+#titreCadre {
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.2em;
+    font-weight: bold;
+    padding: 3px 5px;
+	color: #fff;
+    background-color: #8e8e8e;
+    border-radius: 5px 5px 0 0;
+}
+
+#cadreEvenement article {
+    display: flex;
+    padding: 5px;
+	border-top: 1px solid #8e8e8e;
+}
+
+#cadreEvenement article:nth-child(odd) {
+    background-color: rgba(179,179,179,0.2); /* Couleur de fond pour les articles impaire */
+}
+
+#cadreEvenement article:hover,
+#cadreEvenement article:focus {
+    background-color: #c9c9c9; /* Couleur de fond lors du passage de la selection */
+}
+
+#cadreEvenement article div {
+    margin: auto;
+}
+
+#heureDateEvenement {
+    width: 20%;
+	font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#descriptionEvenement {
+    width: 100%;
+    padding: 0 3px;
+	text-align: center;
+}
+
+.titreLienEvenement a {
+    font-size: 2em;
+}
+
+.imageEvenement {
+	margin: 30px 0;
+}
+
+.extraitEvenement {
+	text-align: left;
+}
+
+.extraitEvenement a {
+	margin: 20px 0;
+}
+
+#boutonReservation a {
+    padding: 5px; 
+    background-color: #fd3635;
+    box-shadow: inset 0 -3px #8e1e1e;
+    border-radius: 5px;
+    color: #fff;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#boutonReservation a:hover,
+#boutonReservation a:focus {
+    background-color: #8e1e1e;
+    box-shadow: outset 3px 0 #8e1e1e;
+}
+
+.date {
+	display: block;
+}
+
+a.pull-left {
+    float: none; /* Fait passer le lieu de l'évenement en dessous du boutton "lire la suite..." */
+}
+
+/* Pagination des activités du mois */
+.em-pagination {
+    display: block;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.page-numbers {
+    border: 2px solid rgba(57,57,57, 0.5);
+    padding: 5px 10px;
+    margin-right: 15px;
+    border-radius: 3px;
+    font-size: 1.1em;
+    color: #999;
+}
+
+.current {
+    background-color: #73baae;
+    border: 2px solid #73baae;
+    border-radius: 0;
+    color: #fff;
+    font-weight: 600;
+}
+
+.next, .prev {
+    border: none;
+}
+
+.em-pagination a:hover,
+.em-pagination a:focus {
+    background-color: #e6e6e6;
+    color: #999;
+}
+
+/* Page d'une activités */
+.em-booking-form-details p:nth-child(4) label {
+    width: 100%;
+}
+
+.em-booking-form-details p:nth-child(4) label::after {
+    content: " (champ obligatoire)";
+    font-size: 0.9em;
+}
+
+.em-booking-buttons input[type="submit"] {
+    margin-top: 20px;
+	padding: 15px 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: #73baae;
+	border: none;
+	border-radius: 5px;
+}
+
+.em-booking-buttons input[type="submit"]:hover,
+.em-booking-buttons input[type="submit"]:focus {
+	background-color: #fd3635;
+	transition: all 0.5s ease 0s;
+}
+
+/* Footer */
+.contentWidgets {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contentWidgets div {
+    width: 100%;
+}
+
+.copytext {
+    display: flex;
+    justify-content: space-between;
+}
+
+.copytext a:hover,
+.copytext a:focus {
+    text-decoration: underline;
+}
+
+/* Contact */
+.caldera-grid input[type="submit"] {
+    padding: 15px 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+    background-color: #73baae;
+    border: none;
+	border-radius: 5px;
+}
+
+.caldera-grid input[type="submit"]:hover {
+    background-color: #fd3635;
+	transition: all 0.5s ease 0s;
+}
+
+/* petit ecrans */
+@media screen and (max-width: 1024px) {
+    .rpwwt-widget > h3.widgettitle {
+        width: 8.85em;
+        font-size: 1.6em;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .masthead h1 {
+        font-size: 5vw !important;
+    }
+
+    .slider-text p, .masthead .masthead-dsc p, .stat-content .brand-heading span {
+        font-size: 3vw !important;
+    }
+}
+
+/* Tablettes */
+@media screen and (max-width: 768px) {
+    #texteAccueil, #team1 ul li {
+        width: 90%;
+    }
+
+    .rpwwt-post-title {
+        display: block;
+    }
+
+    .rpwwt-widget a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #activitesVille ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #activitesVille figure {
+        margin-top: 15px;
+    }
+
+    #activitesVille a {
+        transform: scale(1);
+    }
+}
+
+/* Smartphones */
+@media screen and (max-width: 480px) {
+    #activitesVille a {
+        transform: scale(0.9);
+        margin-top: 0;
+    }
+
+    #titreCadre {
+        font-size: 0.9em;
+        align-items: center;
+    }
+
+    .heureDate {
+        width: 50px;
+    }
+
+    #heureDateEvenement {
+        font-size: 0.8em;
+    }
+
+    #boutonReservation a {
+        padding: 3px; 
+        font-size: 1em;
+    }
+}

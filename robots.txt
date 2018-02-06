@@ -1,0 +1,8 @@
+User-agent: *
+#Bloque l'accès à la page des reservations
+Disallow:/evenement/mes-reservations/
+sitemap:http://www.p2.m-raes.fr/sitemap.xml
+noindex:/sitemap.xml
+noindex:/robots.txt
+noindex:/evenement/categories
+noindex:/mentions-legales
